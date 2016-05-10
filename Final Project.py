@@ -1,5 +1,5 @@
 # Christian Brungart
-# Testing.py
+# Mountainclimb.py
 # 4-20-16
 
 import pygame
